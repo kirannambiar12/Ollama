@@ -12,6 +12,8 @@ uvicorn = {extras = ["standard"], version = "^0.32.1"}
 black = "^24.10.0"
 requests = "^2.32.3"
 ollama = "^0.4.4"
+starlette = "^0.41.3"
+streamlit = "^1.41.0"
 
 
 [build-system]
